@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"math"
+
+	"github.com/orklepee/go-learn/math"
 )
 
 func main() {
