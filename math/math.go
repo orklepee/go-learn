@@ -10,3 +10,7 @@ func Sum(numbers []int) int {
 
 	return sum
 }
+
+func Add(a, b int) int {
+	return a + b
+}
